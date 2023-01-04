@@ -85,6 +85,7 @@ padding: 130px 150px;
    text-align: center; 
 font-size: 35px;
 font-weight: 700;
+margin-bottom: 50px;
 }
 .section-description{
     color: #757575;
@@ -130,3 +131,35 @@ gap: 24px;
 .skill-description{
     color: #757575;
 }
+/* resume style */
+
+.resume-content{
+    display: flex;
+}
+
+.resume.title{
+    font-weight: 700;
+font-size: 25px;
+color: #474747;
+}
+.resume.sub-title{
+    color: #757575;
+    font-weight:600;
+    font-size: 20px;
+}
+.resume.description{
+    color: #757575;{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
