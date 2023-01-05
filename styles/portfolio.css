@@ -17,7 +17,7 @@
 }
 .header{
     background-color: antiquewhite;
-    background-image: url('../header_bg.png'),url('../developer.png');
+    background-image: url('../images/header_bg.png'),url('../images/developer.png');
    background-repeat: no-repeat;
    background-position: bottom right,left;
 }
