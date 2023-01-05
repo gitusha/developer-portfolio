@@ -25,7 +25,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title{
     font-weight: 800;
@@ -172,7 +172,7 @@ text-align: center;
 }
 .contact.section-title{
     text-align: left;
-    padding: 10px 20px;
+    
     
 }
 .contact input[type="text"],input[type="email"],textarea{
